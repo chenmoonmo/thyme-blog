@@ -1,7 +1,7 @@
-import Layout from '../layout'
-import AList from '../components/AList'
-import SliderLabels from '../components/SliderLabels'
-import Banner from '../components/Banner'
+import Layout from '../../layout'
+import AList from '../../components/AList'
+import SliderLabels from '../../components/SliderLabels'
+import Banner from '../../components/Banner'
 import { useState } from 'react'
 
 const home = (props) => {
